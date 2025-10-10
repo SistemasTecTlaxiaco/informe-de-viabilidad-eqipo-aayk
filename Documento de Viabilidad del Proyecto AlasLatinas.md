@@ -136,14 +136,6 @@ En resumen, **AlasLatinas 3.0 es un proyecto viable académicamente**, con posib
 
 ---
 
-## 9. Recomendaciones
-
-1. Corregir los errores de carga de la wiki y asegurar su respaldo.  
-2. Crear un **README.md técnico** con pasos de instalación y ejecución.  
-3. Establecer un **plan de mantenimiento semestral**.  
-4. Implementar **pruebas de usuario** para medir funcionalidad real.  
-5. Documentar las tecnologías empleadas y agregar guías para nuevos desarrolladores.  
-
 ---
 
 **Elaborado por:**  
