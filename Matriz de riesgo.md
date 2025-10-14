@@ -55,6 +55,7 @@ try:
     print("✅ Conexión exitosa:", account)
 except Exception as e:
     print("⚠️ Error de conexión con Stellar:", e)
+```
 ## 💻 Fase 4: El Refugio del Código (Pruebas y Resiliencia Técnica)
 
 | Subactividad | Descripción | Resultado Esperado |
