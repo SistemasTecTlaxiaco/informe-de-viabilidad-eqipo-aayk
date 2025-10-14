@@ -21,10 +21,10 @@ Su objetivo es aprender a planificar, presupuestar y gestionar un proyecto tecno
 | ID | Tarea | Descripción | Responsable | Estimación | Costo Estimado | Estado |
 |----|--------|--------------|--------------|--------------|----------------|--------|
 | T1 | Diseño de Interfaz | Crear prototipos y definir colores | Kevin | 60h | $2,400 | Pendiente |
-| T2 | Desarrollo Backend | Implementar base de datos y API | Ana | 120h | $4,800 | Pendiente |
-| T3 | Desarrollo Frontend | Programar formularios y validaciones | Luis | 120h | $3,600 | En progreso |
-| T4 | Testing y QA | Pruebas unitarias y funcionales | Sofía | 40h | $1,600 | Pendiente |
-| T5 | Documentación | Redacción de manual y BUDGET.md | Sofía | 20h | $800 | Pendiente |
+| T2 | Desarrollo Backend | Implementar base de datos y API | Antonia | 120h | $4,800 | Pendiente |
+| T3 | Desarrollo Frontend | Programar formularios y validaciones | alvaro | 120h | $3,600 | En progreso |
+| T4 | Testing y QA | Pruebas unitarias y funcionales | yael | 40h | $1,600 | Pendiente |
+| T5 | Documentación | Redacción de manual y BUDGET.md | alvaro | 20h | $800 | Pendiente |
 
 ---
 
@@ -47,9 +47,9 @@ Promedio semanal: **30–40 horas por integrante**
 | Miembro | Rol | Competencias | Responsabilidades |
 |----------|------|--------------|-------------------|
 | Kevin | Diseñador UI/UX | Diseño visual, interfaces | Diseño de interfaz y prototipos |
-| Ana | Backend Developer | Lógica de servidor, API | Estructura de datos y conexión |
-| Luis | Frontend Developer | HTML, CSS, JS | Formularios, validaciones |
-| Sofía | QA Tester & Writer | Control de calidad, redacción | Testing y documentación final |
+| Antonia | Backend Developer | Lógica de servidor, API | Estructura de datos y conexión |
+| alvaro | Frontend Developer | HTML, CSS, JS | Formularios, validaciones |
+| yael | QA Tester & Writer | Control de calidad, redacción | Testing y documentación final |
 
 ---
 
