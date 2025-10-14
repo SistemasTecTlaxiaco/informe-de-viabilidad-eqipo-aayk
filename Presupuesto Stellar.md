@@ -44,7 +44,7 @@ Estructura de Desglose del Trabajo (EDT) del proyecto *Alas Latinas 3.0* dividid
 | **Costo Total Estimado** |  | **$30,000 MXN** |
 
 ---
-## 👥 Asignación de Responsabilidades
+## 👥 A4 Asignación de Responsabilidades
 
 | Miembro | Rol | Competencias | Responsabilidades |
 |----------|------|--------------|-------------------|
