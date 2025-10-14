@@ -66,7 +66,7 @@ except Exception as e:
 
 ### 🧩 Ejemplo de Prueba en Python (SDK Stellar)
 
-```python
+
 from stellar_sdk import Server, Keypair
 
 try:
