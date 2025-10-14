@@ -53,7 +53,7 @@ El objetivo es anticipar, evaluar y mitigar los principales riesgos técnicos, o
 
 ### 🧩 Ejemplo de Prueba en Python (SDK Stellar)
 
-```python
+```pyton
 from stellar_sdk import Server, Keypair
 
 try:
@@ -63,3 +63,51 @@ try:
     print("Conexión exitosa:", account)
 except Exception as e:
     print("Error de conexión con Stellar:", e)
+
+```
+Esta prueba simula la validación de conectividad y maneja fallos técnicos como parte del “Escudo de Defensa”.
+
+## 🧭 Fase 5: El Consejo de Guardianes (Supervisión y Auditoría Continua)
+
+| Subactividad | Descripción |
+|---------------|-------------|
+| 5.1 Asignación de Roles | Cada miembro del equipo es guardián de un tipo de riesgo (técnico, social, legal, operativo). |
+| 5.2 Revisión Semanal | Evaluar riesgos activos en reuniones y definir acciones correctivas. |
+| 5.3 Panel de Riesgos | Implementar tablero en **GitHub Projects** para seguimiento continuo. |
+
+**Resultado:**  
+Auditoría permanente, trazabilidad clara y responsabilidad compartida.
+
+---
+
+## 🌍 Fase 6: La Fortaleza Ciudadana (Riesgos Sociales y de Adopción)
+
+| Subactividad | Descripción |
+|---------------|-------------|
+| 6.1 Encuesta de Confianza | Recopilar opiniones de usuarios y autoridades locales. |
+| 6.2 Identificación de Riesgos Sociales | Detectar resistencia al uso de blockchain o baja comprensión del sistema. |
+| 6.3 Estrategia de Adopción | Diseñar materiales educativos, talleres y demos públicos. |
+
+**Resultado:**  
+Una comunidad informada y confiada en la tecnología Stellar.
+
+---
+
+## ✅ Conclusión General
+
+El **Escudo Anti-Riesgo** fortalece la base técnica y social del proyecto Stellar Demo.  
+Gracias a este proceso:
+
+- Se estableció una **matriz de riesgo actualizada**.  
+- Se implementaron **estrategias proactivas de mitigación**.  
+- Se promovió una **auditoría continua y participativa**.  
+
+Con ello, el proyecto alcanza una mayor **resiliencia técnica y confianza ciudadana**, alineándose con los valores de transparencia y seguridad del ecosistema blockchain.
+
+---
+
+**Autor:** Álvaro Froylan Pacheco Osorio  
+**Instituto:** Tecnológico de Tlaxiaco  
+**Repositorio Ejemplo:** [AlasLatinas3.0 - GitHub](https://github.com/SistemasTecTlaxiaco/AlasLatinas3.0/wiki)  
+**Fecha:** Octubre 2025  
+
