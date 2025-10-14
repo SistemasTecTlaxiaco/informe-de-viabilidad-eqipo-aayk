@@ -1,47 +1,49 @@
-# 🚀 Proyecto: El Presupuesto Stellar y la Torre de Control
+# 🚀 Proyecto Stellar - Torre de Control: *Alas Latinas 3.0*
+### **Materia:** Gestión de Proyectos de Software  
+### **Repositorio base:** [Alas Latinas 3.0](https://github.com/SistemasTecTlaxiaco/AlasLatinas3.0/wiki)  
+### **Fecha de elaboración:** 14/10/2025
+---
 
-## 🌌 Descripción General
-Este repositorio corresponde al proyecto académico **"El Presupuesto Stellar y la Torre de Control"** de la materia *Gestión de Proyectos de Software*.  
-Su objetivo es aprender a planificar, presupuestar y gestionar un proyecto tecnológico de manera profesional utilizando GitHub como Torre de Control.
+## 🧩 A1. Construir la Torre EDT
+Estructura de Desglose del Trabajo (EDT) del proyecto *Alas Latinas 3.0* dividida en fases principales:
+
+| Nivel | Fase / Entregable | Descripción breve |
+|:------|:------------------|:------------------|
+| 1 | Planificación | Definir alcance, requerimientos y objetivos del sistema. |
+| 2 | Diseño de interfaz | Crear prototipos visuales y flujos de navegación. |
+| 3 | Desarrollo backend | Programar la lógica, base de datos y API. |
+| 4 | Integración frontend-backend | Conectar la interfaz con el servidor y pruebas iniciales. |
+| 5 | Pruebas y validación | Testing funcional, de rendimiento y de usuario. |
+| 6 | Despliegue y documentación | Publicación en servidor y elaboración del manual técnico. |
 
 ---
 
-## 🧱 Estructura EDT (Work Breakdown Structure)
-| Nivel | Descripción | Ejemplo |
-|-------|--------------|----------|
-| 1 | Proyecto Global | Sistema Stellar Completo |
-| 2 | Componentes Principales | UI/UX, Backend, Frontend, QA, Documentación |
-| 3 | Tareas Específicas | Diseñar login, crear API, probar formularios |
-| 4 | Subtareas Ejecutables | Seleccionar paleta de colores, validar campos |
+## ⏱️ A2. Estimar Tiempos y Subastar Responsabilidades
+
+| Tarea | Responsable | Duración estimada | Fecha estimada de entrega |
+|:------|:-------------|:------------------|:--------------------------|
+| Análisis de requerimientos | Kevin | 5 días | 20/10/2025 |
+| Diseño UI/UX | Antonia| 7 días | 27/10/2025 |
+| Desarrollo Backend | yael | 10 días | 06/11/2025 |
+| Integración Frontend | alvaro | 8 días | 14/11/2025 |
+| Pruebas finales | Equipo completo | 5 días | 19/11/2025 |
+| Documentación y entrega | Kevin | 3 días | 22/11/2025 |
 
 ---
 
-## 🧩 Tareas Principales del Tablero
+## 💰 A3. Calcular Presupuesto — *Manifiesto Financiero*
 
-| ID | Tarea | Descripción | Responsable | Estimación | Costo Estimado | Estado |
-|----|--------|--------------|--------------|--------------|----------------|--------|
-| T1 | Diseño de Interfaz | Crear prototipos y definir colores | Kevin | 60h | $2,400 | Pendiente |
-| T2 | Desarrollo Backend | Implementar base de datos y API | Antonia | 120h | $4,800 | Pendiente |
-| T3 | Desarrollo Frontend | Programar formularios y validaciones | alvaro | 120h | $3,600 | En progreso |
-| T4 | Testing y QA | Pruebas unitarias y funcionales | yael | 40h | $1,600 | Pendiente |
-| T5 | Documentación | Redacción de manual y BUDGET.md | alvaro | 20h | $800 | Pendiente |
-
----
-
-## ⏱️ Estimaciones de Tiempo (Consenso)
-Duración total del proyecto: **8 semanas**  
-Promedio semanal: **30–40 horas por integrante**
-
-| Tarea | Estimación Inicial | Ajuste Final |
-|--------|--------------------|--------------|
-| Diseño UI/UX | 12h | 11h |
-| Backend | 15h | 14h |
-| Frontend | 14h | 13h |
-| QA | 6h | 5h |
-| Documentación | 3h | 3h |
+| Concepto | Descripción | Costo estimado (MXN) |
+|:----------|:-------------|---------------------:|
+| Recursos Humanos | Pago simbólico al equipo (4 miembros, 1 mes) | $16,000 |
+| Equipos y Software | Laptops, hosting, licencias | $8,000 |
+| Herramientas de colaboración | GitHub, Figma, Notion | $1,500 |
+| Testing y QA | Pruebas de rendimiento y calidad | $2,000 |
+| Documentación técnica | Redacción y diagramas UML | $1,000 |
+| Mantenimiento post-lanzamiento | Soporte 1 mes | $1,500 |
+| **Costo Total Estimado** |  | **$30,000 MXN** |
 
 ---
-
 ## 👥 Asignación de Responsabilidades
 
 | Miembro | Rol | Competencias | Responsabilidades |
@@ -51,69 +53,49 @@ Promedio semanal: **30–40 horas por integrante**
 | alvaro | Frontend Developer | HTML, CSS, JS | Formularios, validaciones |
 | yael | QA Tester & Writer | Control de calidad, redacción | Testing y documentación final |
 
----
+## 🛰️ A5. Actualizar Tablero GitHub (Torre de Control)
 
-## 💰 Presupuesto Total
+El tablero debe incluir las siguientes columnas:
 
-| Rol | Horas | Tarifa | Subtotal |
-|------|--------|--------|-----------|
-| Diseñador UI/UX | 60 | $40 | $2,400 |
-| Backend Dev | 120 | $40 | $4,800 |
-| Frontend Dev | 120 | $30 | $3,600 |
-| QA Tester | 40 | $40 | $1,600 |
-| Technical Writer | 20 | $40 | $800 |
-| **Licencias / Herramientas / Hosting** | — | — | **$1,000** |
-| **Total Estimado** | — | — | **$14,200** |
+- **Backlog:** Ideas, historias de usuario y tareas pendientes.  
+- **To Do:** Tareas aprobadas listas para ejecutar.  
+- **In Progress:** Actividades en desarrollo (indicar responsable y fecha).  
+- **Review:** Pendientes de validación o revisión de código.  
+- **Done:** Tareas completadas con evidencias o commits asociados.  
 
----
-
-## 📊 Metodología
-
-1. **EDT**: Se desglosó el trabajo en 4 niveles (global → subtareas).
-2. **Estimación de Tiempo**: Método de “tira y afloja” por consenso.
-3. **Subasta de Responsabilidades**: Asignación según habilidades e interés.
-4. **Presupuesto Stellar**: Cálculo basado en tarifa hora-hombre.
-5. **Torre de Control (GitHub Projects)**: Seguimiento visual del avance.
+Ejemplo de tarjeta:
+```
+Título: Crear Pantalla de Inicio
+Descripción: Implementar pantalla principal de bienvenida con menú.
+Responsable: Ana
+Duración: 4 días
+Costo estimado: $2,500 MXN
+Etiqueta: UI/UX
+Estado: In Progress
+```
 
 ---
 
-## 🗂️ Columnas del Tablero de GitHub
+## 📊 A6. Resultado Final del Proyecto (Simulación estilo Stellar)
 
-| Columna | Descripción | Ejemplo de Tareas |
-|----------|--------------|--------------------|
-| 🟡 Pendiente | Tareas aún no iniciadas | Diseño UI/UX, Testing |
-| 🔵 En Progreso | Tareas actualmente en desarrollo | Frontend |
-| 🟢 En Revisión | Revisión de código o pruebas | Backend |
-| 🟣 Completado | Tareas terminadas | Documentación final |
+**Progreso Total:** 100%  
+**Presupuesto :** $29,200 MXN de $30,000 MXN (97%)  
+**Duración total:** 32 días  
+**Desviación estimada:** -3% (dentro del rango aceptable)
 
----
-
-## 📄 Documentos Asociados
-
-- **README.md** → Descripción del proyecto  
-- **BUDGET.md** → Manifiesto financiero  
-- **tower-overview.md** → Desglose EDT y asignaciones  
-- **project-board.md** → Este archivo (simulación del tablero)
+🟢 **Resultado:** Proyecto *Alas Latinas 3.0* completado exitosamente con entregables funcionales, documentación completa y tablero actualizado.  
+📁 **Repositorio:** [Alas Latinas 3.0](https://github.com/SistemasTecTlaxiaco/AlasLatinas3.0/wiki)
 
 ---
 
-## ✅ Checklist de Entrega Final
+## ✅ Checklist Final
 
-| Elemento | Estado |
-|-----------|--------|
-| Torre EDT creada en GitHub Projects | ✅ |
-| Tareas y subtareas documentadas | ✅ |
-| Estimaciones de tiempo y consenso | ✅ |
-| Responsables asignados | ✅ |
-| Presupuesto calculado | ✅ |
-| Archivo `BUDGET.md` creado | ✅ |
-| Tablero actualizado con etiquetas y costos | ✅ |
-
----
-
-📅 **Duración estimada:** 8 semanas  
-💵 **Costo total:** $14,200  
-👥 **Equipo:** 4 integrantes  
-🧠 **Objetivo:** Aprender a planificar, presupuestar y controlar proyectos tecnológicos mediante GitHub.
+- [x] EDT estructurada y documentada  
+- [x] Estimaciones de tiempo aprobadas por el equipo  
+- [x] Responsabilidades asignadas en GitHub  
+- [x] Costos calculados y documentados en `BUDGET.md`  
+- [x] Tablero de control actualizado  
+- [x] Documentación del manifiesto financiero completa  
+- [x] Enlace final de entrega en GitHub  
 
 ---
